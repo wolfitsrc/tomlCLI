@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/wolfitpk/tomlCLI/pkg/files"
-	"github.com/wolfitpk/tomlCLI/pkg/flags"
+	"github.com/wolfitsrc/tomlCLI/pkg/files"
+	"github.com/wolfitsrc/tomlCLI/pkg/flags"
 )
 
 const (
