@@ -1,3 +1,3 @@
-module github.com/wolfitpk/tomlCLI
+module github.com/wolfitsrc/tomlCLI
 
 go 1.20
